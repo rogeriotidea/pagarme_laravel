@@ -1,0 +1,14 @@
+{
+    "name": "rogeriocoelho/pagarme_laravel",
+    "description": "Integração ao Pagarme para o Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rogerio Coelho",
+            "email": "rogerio@tidea.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
